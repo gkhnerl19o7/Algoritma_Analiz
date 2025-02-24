@@ -1,0 +1,14 @@
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\bin\Debug\net8.0\bubble_sort.exe
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\bin\Debug\net8.0\bubble_sort.deps.json
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\bin\Debug\net8.0\bubble_sort.runtimeconfig.json
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\bin\Debug\net8.0\bubble_sort.dll
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\bin\Debug\net8.0\bubble_sort.pdb
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\obj\Debug\net8.0\bubble_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\obj\Debug\net8.0\bubble_sort.AssemblyInfoInputs.cache
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\obj\Debug\net8.0\bubble_sort.AssemblyInfo.cs
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\obj\Debug\net8.0\bubble_sort.csproj.CoreCompileInputs.cache
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\obj\Debug\net8.0\bubble_sort.dll
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\obj\Debug\net8.0\refint\bubble_sort.dll
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\obj\Debug\net8.0\bubble_sort.pdb
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\obj\Debug\net8.0\bubble_sort.genruntimeconfig.cache
+C:\Users\gokhn\source\repos\bubble_sort\bubble_sort\obj\Debug\net8.0\ref\bubble_sort.dll

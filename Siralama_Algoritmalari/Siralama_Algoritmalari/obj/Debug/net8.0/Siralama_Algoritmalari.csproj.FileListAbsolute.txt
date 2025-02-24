@@ -1,0 +1,14 @@
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\bin\Debug\net8.0\Siralama_Algoritmalari.exe
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\bin\Debug\net8.0\Siralama_Algoritmalari.deps.json
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\bin\Debug\net8.0\Siralama_Algoritmalari.runtimeconfig.json
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\bin\Debug\net8.0\Siralama_Algoritmalari.dll
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\bin\Debug\net8.0\Siralama_Algoritmalari.pdb
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\obj\Debug\net8.0\Siralama_Algoritmalari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\obj\Debug\net8.0\Siralama_Algoritmalari.AssemblyInfoInputs.cache
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\obj\Debug\net8.0\Siralama_Algoritmalari.AssemblyInfo.cs
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\obj\Debug\net8.0\Siralama_Algoritmalari.csproj.CoreCompileInputs.cache
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\obj\Debug\net8.0\Siralama_Algoritmalari.dll
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\obj\Debug\net8.0\refint\Siralama_Algoritmalari.dll
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\obj\Debug\net8.0\Siralama_Algoritmalari.pdb
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\obj\Debug\net8.0\Siralama_Algoritmalari.genruntimeconfig.cache
+C:\Users\gokhn\source\repos\Siralama_Algoritmalari\Siralama_Algoritmalari\obj\Debug\net8.0\ref\Siralama_Algoritmalari.dll
