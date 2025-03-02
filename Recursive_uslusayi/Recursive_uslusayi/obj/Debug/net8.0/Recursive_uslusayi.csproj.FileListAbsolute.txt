@@ -1,0 +1,14 @@
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\bin\Debug\net8.0\Recursive_uslusayi.exe
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\bin\Debug\net8.0\Recursive_uslusayi.deps.json
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\bin\Debug\net8.0\Recursive_uslusayi.runtimeconfig.json
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\bin\Debug\net8.0\Recursive_uslusayi.dll
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\bin\Debug\net8.0\Recursive_uslusayi.pdb
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\obj\Debug\net8.0\Recursive_uslusayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\obj\Debug\net8.0\Recursive_uslusayi.AssemblyInfoInputs.cache
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\obj\Debug\net8.0\Recursive_uslusayi.AssemblyInfo.cs
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\obj\Debug\net8.0\Recursive_uslusayi.csproj.CoreCompileInputs.cache
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\obj\Debug\net8.0\Recursive_uslusayi.dll
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\obj\Debug\net8.0\refint\Recursive_uslusayi.dll
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\obj\Debug\net8.0\Recursive_uslusayi.pdb
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\obj\Debug\net8.0\Recursive_uslusayi.genruntimeconfig.cache
+C:\Users\gokhn\source\repos\Recursive_uslusayi\Recursive_uslusayi\obj\Debug\net8.0\ref\Recursive_uslusayi.dll
