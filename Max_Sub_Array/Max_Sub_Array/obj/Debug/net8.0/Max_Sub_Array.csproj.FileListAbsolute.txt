@@ -1,0 +1,14 @@
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\bin\Debug\net8.0\Max_Sub_Array.exe
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\bin\Debug\net8.0\Max_Sub_Array.deps.json
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\bin\Debug\net8.0\Max_Sub_Array.runtimeconfig.json
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\bin\Debug\net8.0\Max_Sub_Array.dll
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\bin\Debug\net8.0\Max_Sub_Array.pdb
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\obj\Debug\net8.0\Max_Sub_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\obj\Debug\net8.0\Max_Sub_Array.AssemblyInfoInputs.cache
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\obj\Debug\net8.0\Max_Sub_Array.AssemblyInfo.cs
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\obj\Debug\net8.0\Max_Sub_Array.csproj.CoreCompileInputs.cache
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\obj\Debug\net8.0\Max_Sub_Array.dll
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\obj\Debug\net8.0\refint\Max_Sub_Array.dll
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\obj\Debug\net8.0\Max_Sub_Array.pdb
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\obj\Debug\net8.0\Max_Sub_Array.genruntimeconfig.cache
+C:\Users\gokhn\source\repos\Max_Sub_Array\Max_Sub_Array\obj\Debug\net8.0\ref\Max_Sub_Array.dll
