@@ -1,0 +1,14 @@
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\bin\Debug\net8.0\Dinamikdizi.exe
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\bin\Debug\net8.0\Dinamikdizi.deps.json
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\bin\Debug\net8.0\Dinamikdizi.runtimeconfig.json
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\bin\Debug\net8.0\Dinamikdizi.dll
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\bin\Debug\net8.0\Dinamikdizi.pdb
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\obj\Debug\net8.0\Dinamikdizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\obj\Debug\net8.0\Dinamikdizi.AssemblyInfoInputs.cache
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\obj\Debug\net8.0\Dinamikdizi.AssemblyInfo.cs
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\obj\Debug\net8.0\Dinamikdizi.csproj.CoreCompileInputs.cache
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\obj\Debug\net8.0\Dinamikdizi.dll
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\obj\Debug\net8.0\refint\Dinamikdizi.dll
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\obj\Debug\net8.0\Dinamikdizi.pdb
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\obj\Debug\net8.0\Dinamikdizi.genruntimeconfig.cache
+C:\Users\gokhn\source\repos\Dinamikdizi\Dinamikdizi\obj\Debug\net8.0\ref\Dinamikdizi.dll
